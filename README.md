@@ -21,7 +21,6 @@ Este código hace que una imagen se vuelva dinámica utilizando la librería Tki
 
 En el video se explica como se realiza una forma para visualizar texto dinámico, para posteriormente
 modificarlo y agregar una imagen en vez de texto y hacerla dinámica.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## To clone and run
 
